@@ -13,7 +13,7 @@ class script(object):
 
 - ›› Mᴜsᴛ Aᴅᴅ Mᴇ Aᴅᴍɪɴ Tᴏ Wᴏʀᴋ Oɴ Tʜɪs Gʀᴏᴜᴘ
 
-- ›› Cʜᴀɴɢᴇ Sᴇᴛᴛɪɴɢ Fᴏʀ Uʀ Gʀᴏᴜᴘ Cʟɪᴄᴋ 👉 /connect
+- ›› Cʜᴀɴɢᴇ Sᴇᴛᴛɪɴɢ Fᴏʀ Uʀ Gʀᴏᴜᴘ Cʟɪᴄᴋ 
 
 - ›› I Wɪʟʟ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs/Sᴇʀɪᴇs Dᴏɴ'ᴛ Wᴏʀʀʏ
 
@@ -22,16 +22,16 @@ class script(object):
 
     MODS_TXT = """I Hᴀᴠᴇ Mᴀɴʏ Fᴇᴀᴛᴜʀᴇs"""
 
-    PONGD_TXT = """Cʜᴇᴄᴋ Mʏ Pɪɴɢ Bʏ Cʟɪᴄᴋɪɴɢ 👉 /ping"""
+    PONGD_TXT = """Cʜᴇᴄᴋ Mʏ Pɪɴɢ Bʏ Cʟɪᴄᴋɪɴɢ """
     
-    PONG_TXT = """Cʜᴇᴄᴋ Mʏ Pɪɴɢ Bʏ Cʟɪᴄᴋɪɴɢ 👉 /ping"""
+    PONG_TXT = """Cʜᴇᴄᴋ Mʏ Pɪɴɢ Bʏ 𝐂ʟɪᴄᴋɪɴɢ """
 
     ABOUT_TXT = """<b>🎧 𝐌𝐲 𝐍𝐚𝐦𝐞 𝐢𝐬 : <a href=https://t.me/Rockerz_2k_bot>𝐑𝐨𝐜𝐤𝐞𝐫𝐳_𝟐𝐊_𝐁𝐨𝐭</a>
 🥀 𝐆𝐫𝐞𝐚𝐭𝐖𝐚𝐥𝐥 𝐂𝐣 : 𝐌𝐫.𝐓𝐚𝐦𝐢𝐥𝐚𝐧
 ♣ 𝐃𝐞𝐯𝐨𝐥𝐨𝐩𝐞𝐫 𝐓𝐠 : 𝐒𝐌𝐃_𝐎𝐰𝐧𝐞𝐫
 🌗 𝐎𝐫𝐚𝐜𝐥𝐞 𝐃𝐚𝐓𝐚 : 𝐏𝐲𝐭𝐡𝐨𝐧.𝟑
 ♠ 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐏𝐲 : 𝐁𝐚𝐬𝐞 𝐑𝐞𝐠𝐢𝐬𝐭𝐞𝐫
-👨‍🔧 𝐒𝐞𝐫𝐯𝐞𝐫 & 𝐇𝐨𝐬𝐭 : 𝐐𝐭
+👨‍🔧 𝐇𝐨𝐬𝐭 𝐁𝐲 𝐌𝐞 : 𝐐𝐭𝐯𝐬
 ⚜️ 𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞 : <a href=https://t.me/Rockerzz_2k>𝐌𝐫.𝐓𝐚𝐦𝐢𝐥𝐚𝐧</a> """
 
     SOURCES_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @Rockerzz_2k
@@ -72,7 +72,7 @@ class script(object):
 
     MANUELFILTER_TXT = """<b>Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ Mᴏᴠɪᴇs / Sᴇʀɪᴇs Usɪɴɢ Tʜɪs Bᴏᴛ</b> 😌 🔋
 
-<b>Fɪʀsᴛ Jᴏɪɴ Tʜɪs Gʀᴏᴜᴩ » @Rockerzz_2k</b>
+<b>Fɪʀsᴛ Jᴏɪɴ Tʜɪs Gʀᴏᴜᴩ » @Rockerz_2k</b>
 
 <b>Sᴇɴᴅ Yᴏᴜ Wᴀɴᴛ Mᴏᴠɪᴇs Oʀ Sᴇʀɪᴇs Nᴀᴍᴇ Wɪᴛʜ Cᴏʀʀᴇᴄᴛ Sᴩᴇʟʟɪɴɢ</b>
 
