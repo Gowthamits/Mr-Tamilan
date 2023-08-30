@@ -246,7 +246,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         keyboard = InlineKeyboardMarkup([
             [InlineKeyboardButton(f"{stat}", callback_data=f"{cb}:{group_id}"),
              InlineKeyboardButton("🚫 Dᴇʟᴇᴛᴇ 🚫", callback_data=f"deletecb:{group_id}")],
-            [InlineKeyboardButton("‹‹‹ Bᴀᴄᴋ", callback_data="backcb")]
+            [InlineKeyboardButton("Bᴀᴄᴋ", callback_data="backcb")]
         ])
 
         await query.message.edit_text(
@@ -458,7 +458,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
          )
     elif query.data == "about":
         buttons = [[
-            InlineKeyboardButton('🦞 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 ❄', url='https://t.me/Rockerzz_2k'),
+            InlineKeyboardButton('🦞 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 ❄', url='https://t.me/Rockerz_2k'),
             InlineKeyboardButton('👾 𝐒𝐡𝐚𝐫𝐞 𝐦𝐞 🌿', url=f"https://t.me/share/url?url=t.me/{temp.U_NAME}")
         ], [
             InlineKeyboardButton('🌹 𝐂𝐡𝐞𝐚𝐤 𝐒𝐭𝐚𝐭𝐬 🗽', callback_data='stats'),
@@ -608,7 +608,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         ], [
             InlineKeyboardButton('💐 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 👨‍🏫', callback_data='contact')
         ], [
-            InlineKeyboardButton('‹‹‹🗽 𝐒𝐞𝐞 𝐚𝐛𝐨𝐮𝐭 👨‍🏫', callback_data='about')
+            InlineKeyboardButton('🗽 𝐒𝐞𝐞 𝐀𝐛𝐨𝐮𝐭 👨‍🏫', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -622,7 +622,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         ], [     
             InlineKeyboardButton('🍀 𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞 ☘️', url='https://t.me/Rockerzz_2k')
         ], [  
-            InlineKeyboardButton('‹‹‹🗽 𝐒𝐞𝐞 𝐚𝐛𝐨𝐮𝐭 👨‍🏫', callback_data='about')
+            InlineKeyboardButton('🗽 𝐒𝐞𝐞 𝐀𝐛𝐨𝐮𝐭 👨‍🏫', callback_data='about')
         ], [
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -635,7 +635,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('🌿𝐑𝐞𝐟𝐫𝐞𝐬𝐡🌿', callback_data='rfrsh')
         ], [
-            InlineKeyboardButton('‹‹‹🗽 𝐒𝐞𝐞 𝐚𝐛𝐨𝐮𝐭 👨‍🏫', callback_data='about')
+            InlineKeyboardButton('🗽 𝐒𝐞𝐞 𝐀𝐛𝐨𝐮𝐭 👨‍🏫', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         total = await Media.count_documents()
@@ -655,7 +655,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('🌿𝐑𝐞𝐟𝐫𝐞𝐬𝐡🌿', callback_data='rfrsh')
         ], [
-            InlineKeyboardButton('‹‹‹🗽 𝐒𝐞𝐞 𝐚𝐛𝐨𝐮𝐭 👨‍🏫', callback_data='about')
+            InlineKeyboardButton('🗽 𝐒𝐞𝐞 𝐀𝐛𝐨𝐮𝐭 👨‍🏫', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         total = await Media.count_documents()
@@ -863,7 +863,7 @@ async def advantage_spell_chok(msg):
     g_s += await search_gagala(msg.text)
     gs_parsed = []
     if not g_s:
-        k = await msg.reply("I couldn't find any movie in that name.")
+        k = await msg.reply("I couldn't find any movie 𝐂𝐡𝐞𝐚𝐤 𝐢𝐟 𝐬𝐩𝐞𝐥𝐥𝐢𝐧𝐠 𝐢𝐬 𝐂𝐨𝐫𝐫𝐞𝐜𝐭 in that name.")
         await asyncio.sleep(8)
         await k.delete()
         return
