@@ -28,21 +28,21 @@ class script(object):
 
     ABOUT_TXT = """<b>🎧 𝐌𝐲 𝐍𝐚𝐦𝐞 𝐢𝐬 : <a href=https://t.me/Rockerz_2k_bot>𝐑𝐨𝐜𝐤𝐞𝐫𝐳_𝟐𝐊_𝐁𝐨𝐭</a>
 🥀 𝐆𝐫𝐞𝐚𝐭𝐖𝐚𝐥𝐥 𝐂𝐣 : 𝐌𝐫.𝐓𝐚𝐦𝐢𝐥𝐚𝐧
-♣ 𝐃𝐞𝐯𝐨𝐥𝐨𝐩𝐞𝐫 𝐓𝐠 : 𝐒𝐚𝐦𝐚𝐫
+♣ 𝐃𝐞𝐯𝐨𝐥𝐨𝐩𝐞𝐫 𝐓𝐠 : 𝐒𝐌𝐃_𝐎𝐰𝐧𝐞𝐫
 🌗 𝐎𝐫𝐚𝐜𝐥𝐞 𝐃𝐚𝐓𝐚 : 𝐏𝐲𝐭𝐡𝐨𝐧.𝟑
 ♠ 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐏𝐲 : 𝐁𝐚𝐬𝐞 𝐑𝐞𝐠𝐢𝐬𝐭𝐞𝐫
 👨‍🔧 𝐒𝐞𝐫𝐯𝐞𝐫 & 𝐇𝐨𝐬𝐭 : 𝐐𝐭
-⚜️ 𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞 : <a href=https://t.me/Rockerzz_2k>🌿𝐑𝐨𝐥𝐞𝐱🦞</a> """
+⚜️ 𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞 : <a href=https://t.me/Rockerzz_2k>𝐌𝐫.𝐓𝐚𝐦𝐢𝐥𝐚𝐧</a> """
 
     SOURCES_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @Rockerzz_2k
 
-- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/Rockerzz_2k>🌿𝐑𝐨𝐥𝐞𝐱🦞</a>
+- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/Rockerzz_2k>𝐌𝐫.𝐓𝐚𝐦𝐢𝐥𝐚𝐧</a>
 
 - & Rᴇᴩᴏ Lɪɴᴋ 👇 Hᴇʀᴇ"""
 
     SOURCE_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @Rockerzz_2k</b>
 
-- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/Rockerzz_2k>🌿𝐑𝐨𝐥𝐞𝐱🦞</a></b>
+- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/Rockerzz_2k>𝐌𝐫.𝐓𝐚𝐦𝐢𝐥𝐚𝐧</a></b>
 
 - Rᴇᴩᴏ Lɪɴᴋ 👇 Hᴇʀᴇ"""
 
